@@ -1,6 +1,6 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Sastech, Larvik"/>
+  <HelloWorld msg="Welcome to Sastech, Larvik, Norway"/>
 </template>
 
 <script>
